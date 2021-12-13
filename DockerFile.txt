@@ -1,0 +1,3 @@
+from nginx
+cmd cd  /var/www/html
+cmd wget https://github.com/HiroyukiSasaki-CRE/test-repo/blob/master/test.html
